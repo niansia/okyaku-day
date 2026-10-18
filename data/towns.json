@@ -1,0 +1,13 @@
+[
+ {"id": "t-xizhi", "name": "汐止", "en": "Xizhi", "lat": 25.0683, "lon": 121.6619, "kind": "tra"},
+ {"id": "t-shulin", "name": "樹林", "en": "Shulin", "lat": 24.9913, "lon": 121.4248, "kind": "tra"},
+ {"id": "t-yingge", "name": "鶯歌", "en": "Yingge", "lat": 24.9533, "lon": 121.3520, "kind": "tra", "market": "鶯歌老街"},
+ {"id": "t-ruifang", "name": "瑞芳", "en": "Ruifang", "lat": 25.1088, "lon": 121.8060, "kind": "tra"},
+ {"id": "t-shifen", "name": "十分", "en": "Shifen", "lat": 25.0411, "lon": 121.7752, "kind": "tra", "market": "十分老街"},
+ {"id": "t-fulong", "name": "福隆", "en": "Fulong", "lat": 25.0160, "lon": 121.9446, "kind": "tra"},
+ {"id": "t-jiufen", "name": "九份", "en": "Jiufen", "lat": 25.1095, "lon": 121.8445, "kind": "bus", "market": "九份老街"},
+ {"id": "t-jinshan", "name": "金山", "en": "Jinshan", "lat": 25.2224, "lon": 121.6378, "kind": "bus", "market": "金山老街"},
+ {"id": "t-yehliu", "name": "野柳", "en": "Yehliu", "lat": 25.2068, "lon": 121.6900, "kind": "bus"},
+ {"id": "t-wulai", "name": "烏來", "en": "Wulai", "lat": 24.8645, "lon": 121.5505, "kind": "bus", "market": "烏來老街"},
+ {"id": "t-shenkeng", "name": "深坑", "en": "Shenkeng", "lat": 25.0024, "lon": 121.6157, "kind": "bus", "market": "深坑老街"}
+]
